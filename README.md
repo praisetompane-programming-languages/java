@@ -1,0 +1,40 @@
+# an in-depth study of Java
+
+- language reference:
+	- the syntax and semantics description
+	- key topics:
+		- implementations
+      - OpenJDK
+	  	- https://github.com/openjdk
+        - Eclipse Adoptium™
+            - https://projects.eclipse.org/projects/adoptium
+        - Eclipse Temurin
+          - OpenJDK vs Oracle JDK
+            - https://www.azul.com/products/core/jdk-comparison-matrix/
+		- lexical analysis
+		- data model
+			- standard type hierarchy
+		- execution model
+- base modules index: 
+  - https://central.sonatype.com/?smo=true
+- standard library reference: 
+	- commonly used and required features of a language
+		e.g. collections
+- packaging and package management:
+	- guide: 
+	- tools:
+    - third party modules/packages index: 
+	- structuring projects: 
+	- testing: 
+- extending and embedding:
+- compiler/interpreter:
+- developer contribution guide:
+- developer learning guide:
+  - https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html
+- history and usage:
+	- the style of effective programs, with emphasis on idioms
+	- fundamentals
+		- value declaration
+		- decision structures
+		- iteration structures
+	- algorithms and data structure implementations
