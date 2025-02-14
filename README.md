@@ -1,40 +1,43 @@
-# an in-depth study of Java
+# Java
 
-- language reference:
-	- the syntax and semantics description
-	- key topics:
-		- implementations
-      - OpenJDK
-	  	- https://github.com/openjdk
-        - Eclipse Adoptium™
-            - https://projects.eclipse.org/projects/adoptium
-        - Eclipse Temurin
-          - OpenJDK vs Oracle JDK
-            - https://www.azul.com/products/core/jdk-comparison-matrix/
-		- lexical analysis
-		- data model
-			- standard type hierarchy
-		- execution model
-- base modules index: 
-  - https://central.sonatype.com/?smo=true
-- standard library reference: 
-	- commonly used and required features of a language
-		e.g. collections
-- packaging and package management:
-	- guide: 
+**objective**: an in-depth study of Java, its implementation and ecosystem.
+
+## Language Details: 
+- [language specification](https://docs.oracle.com/javase/specs/)
+- [language reference]()
+	- implementations
+		- [OpenJDK](https://github.com/openjdk)
+		- [Eclipse Adoptium](https://projects.eclipse.org/projects/adoptium)
+		- [Eclipse Temurin]
+			- OpenJDK vs Oracle JDK
+			- https://www.azul.com/products/core/jdk-comparison-matrix/
+- [base modules index](https://central.sonatype.com/?smo=true)
+- [standard library reference]()
+- package management:
+    - [packaging]()
 	- tools:
-    - third party modules/packages index: 
-	- structuring projects: 
-	- testing: 
-- extending and embedding:
-- compiler/interpreter:
-- developer contribution guide:
-- developer learning guide:
-  - https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html
-- history and usage:
-	- the style of effective programs, with emphasis on idioms
-	- fundamentals
-		- value declaration
-		- decision structures
-		- iteration structures
-	- algorithms and data structure implementations
+	- structuring projects:
+- [package index]()
+- [extending and embedding]()
+- [compiler/interpreter]()
+- [memory model]()
+- [developer contribution guide]()
+- history:
+
+## Testing:
+- [JUnit](https://junit.org/junit5/)
+
+## Use Cases:
+- [Applications of Java]()
+- Large Implementations:
+- Database Integration:
+- Web Development:
+
+## Learning Resources:
+- [roadmap](https://roadmap.sh/java)
+- [practice problems](https://www.hackerrank.com/domains/java)
+
+
+## References:
+
+**Disclaimer**: This is an ongoing and incomplete project to unpack these concepts and serve as my distributed memory.
