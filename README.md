@@ -1,6 +1,11 @@
 # Java
 
-**objective**: an in-depth study of Java, its implementation and ecosystem.
+![build status](https://github.com/praisetompane-programming-languages/java/actions/workflows/java.yaml/badge.svg) <br>
+
+## Objectives 
+- An in-depth study of:
+	- Java's Compiler.
+	- Java's language design, implementation and ecosystem.
 
 ## Language Details: 
 - [language specification](https://docs.oracle.com/javase/specs/)
@@ -24,20 +29,21 @@
 - [developer contribution guide]()
 - history:
 
-## Testing:
+## Testing
 - [JUnit](https://junit.org/junit5/)
 
-## Use Cases:
+## Use Cases
 - [Applications of Java]()
-- Large Implementations:
-- Database Integration:
-- Web Development:
 
-## Learning Resources:
+## Learning Resources
 - [roadmap](https://roadmap.sh/java)
 - [practice problems](https://www.hackerrank.com/domains/java)
 
+## References
 
-## References:
+## Legend
+**Q**: Question for later research
+
+**MYINC**: My Insight/Conjecture [Could Be Unoriginal/False and Likely Is]
 
 **Disclaimer**: This is an ongoing and incomplete project to unpack these concepts and serve as my distributed memory.

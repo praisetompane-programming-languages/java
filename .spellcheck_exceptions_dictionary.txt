@@ -1,0 +1,45 @@
+# abbreviations
+svg
+
+
+# acronyms
+MYINC
+
+
+# authors
+Kernighan
+Ritchie
+praisetompane
+
+# concepts
+
+
+# course codes:
+
+
+# technology:
+yaml
+llvm
+pyspelling
+
+
+# go keywords
+fmt
+func
+Println
+
+
+# institutions:
+roadmap
+pypi
+hackerrank
+
+
+# urls:
+https
+src
+dev
+devel
+mem
+golang
+gos
