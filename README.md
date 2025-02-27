@@ -1,13 +1,13 @@
 # Java
 
-![build status](https://github.com/praisetompane-programming-languages/java/actions/workflows/java.yaml/badge.svg) <br>
+![build status](https://github.com/praisetompane/java/actions/workflows/java.yaml/badge.svg) <br>
 
 ## Objectives 
 - An in-depth study of:
 	- Java's Compiler.
 	- Java's language design, implementation and ecosystem.
 
-## Language Details: 
+## Language Details
 - [language specification](https://docs.oracle.com/javase/specs/)
 - [language reference]()
 	- implementations
