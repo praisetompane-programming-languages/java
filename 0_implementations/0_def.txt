@@ -1,4 +1,8 @@
 Known implementations:
-
+		- OpenJDK: https://github.com/openjdk
+		- Eclipse Adoptium: https://projects.eclipse.org/projects/adoptium
+		- Eclipse Temurin
+			- OpenJDK vs Oracle JDK
+			- https://www.azul.com/products/core/jdk-comparison-matrix/
 References:
    

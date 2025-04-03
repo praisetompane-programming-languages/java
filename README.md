@@ -1,39 +1,28 @@
 # Java
-
 ![build status](https://github.com/praisetompane/java/actions/workflows/java.yaml/badge.svg) <br>
 
 ## Objectives 
-- An in-depth study of:
-	- Java's Compiler.
-	- Java's language design, implementation and ecosystem.
+- Notes: The Java Programming Language 
 
 ## Language Details
-- [language specification](https://docs.oracle.com/javase/specs/)
-- [language reference]()
-	- implementations
-		- [OpenJDK](https://github.com/openjdk)
-		- [Eclipse Adoptium](https://projects.eclipse.org/projects/adoptium)
-		- [Eclipse Temurin]
-			- OpenJDK vs Oracle JDK
-			- https://www.azul.com/products/core/jdk-comparison-matrix/
-- [base modules index](https://central.sonatype.com/?smo=true)
-- [standard library reference]()
-- package management:
-    - [packaging]()
-	- tools:
-	- structuring projects:
-- [package index]()
-- [extending and embedding]()
-- [compiler/interpreter]()
-- [memory model]()
-- [developer contribution guide]()
-- history:
+- [Language Specification](https://docs.oracle.com/javase/specs/)
+- [Compiler | Interpreter](https://github.com/openjdk)
+- [Type System]()
+- [Memory Model]()
+- [Language Reference]()
+- [Standard Library]()
+- [Packaging and Distribution]
+    - [Core Module Index]()
+    - [Package Index](https://central.sonatype.com/?smo=true)
+- [Extending and Embedding]()
+- [Developer Contribution Guide]
+- [History]
 
-## Testing
-- [JUnit](https://junit.org/junit5/)
 
 ## Use Cases
 - [Applications of Java]()
+
+## Community
 
 ## Learning Resources
 - [roadmap](https://roadmap.sh/java)

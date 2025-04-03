@@ -8,7 +8,7 @@ echo "installing java"
     asdf install java $VERSION
 echo "done"
 
-echo "set latest version to system wide version"
+echo "set version"
     asdf set java $VERSION
 echo "done"
 
